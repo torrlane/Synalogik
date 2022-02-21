@@ -1,0 +1,5 @@
+Word count = 2
+Average word length = 6
+Number of words of length 4 is 1
+Number of words of length 8 is 1
+The most frequently occurring word length is 1, for word lengths of 4 & 8

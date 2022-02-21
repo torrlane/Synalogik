@@ -1,0 +1,4 @@
+Word count = 1
+Average word length = 9
+Number of words of length 9 is 1
+The most frequently occurring word length is 1, for word lengths of 9
